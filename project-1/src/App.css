@@ -1,0 +1,24 @@
+.links{
+  display: flex;
+  justify-content: space-around;
+}
+.button {
+  text-decoration: none;
+  font-size: large;
+  color: cornflowerblue;
+  border: 1px solid cornflowerblue;
+  padding: 5px;
+  margin: 25px;
+}
+.form{
+  display: grid;
+    justify-content: center;
+  
+}
+.counter{
+
+    justify-content: center;
+    text-align: center;
+    
+
+}

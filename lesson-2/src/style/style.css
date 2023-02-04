@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    
+    display: grid;
+    place-items: center;
+    color: aliceblue;
+}
+.card{
+    background-color: black;
+    max-width: 230px;
+}
+.info{
+    text-align: center;
+}
+.about{
+    padding: 10px;
+}
+.interests{
+    padding: 10px;
+}
+.linkedin{
+   margin-left:13px;
+   
+}
+.city{
+    margin-bottom: 5px;
+}
+.buttons{
+    margin-bottom: 5px;
+    
+}
+.buttons > * {
+    background-color: royalblue;
+    color: aliceblue;
+    padding: 8px 22px;
+}
+.buttons :hover{
+    transform: translate(6px);
+}

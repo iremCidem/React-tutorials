@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "front end development",
+      "body": "Front-end web development is the development of the graphical user interface of a website, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that website.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "javascript",
+      "body": "JavaScript is an event-based imperative programming language (as opposed to HTML's declarative language model) that is used to transform a static HTML page into a dynamic interface. JavaScript code can use the Document Object Model (DOM), provided by the HTML standard, to manipulate a web page in response to events, like user input.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "dscdc",
+      "body": "sdcsdcsc",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "blogs":[
+        {"title":"my first blog",
+        "body":"· İlk olarak belgelerim altına “SampleServer” adında bir klasör oluşturuyoruz.Ve içine “data” adında klasör oluşturuyoruz.",
+        "author":"mario",
+    "id":1    },
+    {"title":"opening party",
+        "body":"Komutunu çalıştırıyoruz.(data klasöründe olduğumuzdan emin oluyoruz.)",
+        "author":"yoshi",
+    "id":2    }
+    ]
+
+}

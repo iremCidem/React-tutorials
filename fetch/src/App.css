@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+.form{
+display: flex;
+flex-direction: column;
+width: 450px;
+
+}
+.blog{
+  height: 100vh;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+ }
+
+.input{
+  margin-bottom: 8px;
+}
+.select{
+  margin-top: 7px;
+}
+.btn{
+ text-decoration: none;
+ color: darkblue;
+ font-weight: 600;
+ margin: 10px;
+ border: 1px solid darkblue;
+padding: 8px;
+ 
+}
